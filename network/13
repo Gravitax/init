@@ -1,0 +1,2 @@
+y=`sh 12`
+nslookup $y

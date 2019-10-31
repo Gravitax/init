@@ -1,0 +1,5 @@
+#nslookup nat-1
+#https://fr.wikipedia.org/wiki/Network_address_translation
+
+Name:	nat-1.42.fr
+Address: 10.60.1.11
